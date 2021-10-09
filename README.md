@@ -7,7 +7,7 @@
       
       
  ##### 2) Resources for learning the concepts:-
-             •	Applied Plotting, Charting and Data Representation in Python Coursera Course by the University Of Michigan 
+             •	Coursera Course by the University Of Michigan:- Applied Plotting, Charting and Data Representation in Python  
              •	Python Documentation 
              •	Matplotlib Documentation
              •	Seaborn Documentation
